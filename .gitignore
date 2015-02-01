@@ -1,0 +1,8 @@
+*.swp
+*.lo
+*.la
+*.c
+*.h
+*.stamp*
+.deps/
+m4/lt*
